@@ -1,5 +1,5 @@
 # kodemia-practica1
-Hola koders
+# Hola koders
 como estan?
 en que ciudad viven?
 que estudian?
